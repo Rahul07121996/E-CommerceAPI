@@ -80,8 +80,6 @@ namespace API.Controllers
                 return NoContent();
             }
             return BadRequest("Can not delete Product");
-
-            ; ; ;
         }
 
          //hey
